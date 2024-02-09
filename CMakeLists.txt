@@ -11,6 +11,9 @@ enable_testing()
 
 set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/vec3.h
+  src/InOneWeekend/color.h
+  src/InOneWeekend/ray.h
+
   src/InOneWeekend/main.cpp
 )
 
