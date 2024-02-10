@@ -18,6 +18,7 @@ set ( SOURCE_ONE_WEEKEND
   src/InOneWeekend/hittable_list.h
   src/InOneWeekend/rtweekend.h
   src/InOneWeekend/camera.h
+  src/InOneWeekend/material.h
 
   src/InOneWeekend/main.cpp
 )
